@@ -1,3 +1,24 @@
-print("Hello World!")
-print("The FitnessGram Pacer Test is a multi-stage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start.")
-print("Goodbye World!")
+import time
+
+print("Colin's Top 3 Movies:")
+
+# define function
+def topThreeMovies():
+
+    time.sleep(3)
+
+    # print first movie
+    print("1. Eraserhead")
+
+    time.sleep(3)
+
+    # print second movie
+    print("2. The Grand Budapest Hotel")
+
+    time.sleep(3)
+
+    # print third movie
+    print("3. The Lighthouse")
+
+
+topThreeMovies()
