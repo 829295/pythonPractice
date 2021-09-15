@@ -8,12 +8,12 @@ def topThreeMovies():
     time.sleep(3)
 
     # print first movie
-    print("1. Eraserhead")
+    print("1. The Grand Budapest Hotel")
 
     time.sleep(3)
 
     # print second movie
-    print("2. The Grand Budapest Hotel")
+    print("2. Eraserhead")
 
     time.sleep(3)
 
