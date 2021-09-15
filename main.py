@@ -1,6 +1,6 @@
 import time
 
-print("Colin's Top 3 Movies:")
+print("Colin's Top Three Movies:")
 
 # define function
 def topThreeMovies():
