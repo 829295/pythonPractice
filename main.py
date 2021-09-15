@@ -1,6 +1,14 @@
 import time
 
-print("Colin's Top Three Movies:")
+def myNameIs(Colin.):
+
+    print("My name is " + Colin.)
+
+    time.sleep(3)
+
+myNameIs("Colin.")
+
+print("My Top Three Movies:")
 
 # define function
 def topThreeMovies():
@@ -24,7 +32,7 @@ def topThreeMovies():
 
 topThreeMovies()
 
-print("Colin's Top Three Books:")
+print("My Top Three Books:")
 
 def topThreeBooks():
     time.sleep(3)
@@ -46,7 +54,7 @@ def topThreeBooks():
 
 topThreeBooks()
 
-print("Colin's Top Three Bands:")
+print("My Top Three Bands:")
 def topThreeBands():
 
     time.sleep(3)
